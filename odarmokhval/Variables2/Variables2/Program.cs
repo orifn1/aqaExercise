@@ -7,33 +7,35 @@ namespace Variables2
         static void Main(string[] args)
         {
             int x, y, z;
-            x = 12;
-            y = 3;
 
-            Console.WriteLine("x equals " + x);
-            Console.WriteLine("y equals " + y);
+            Console.WriteLine("enter x: ");
+            x = int.Parse(Console.ReadLine());
+            Console.WriteLine("enter y: ");
+            y = int.Parse(Console.ReadLine());
             z = x + y;
-            Console.WriteLine("z equals x+y:");
-            Console.WriteLine (z);
-            
+            Console.WriteLine("x+y: ");
+            Console.WriteLine(z);
 
             z = x - y;
-            Console.WriteLine("z equals x-y:");
+            Console.WriteLine("x-y: ");
             Console.WriteLine(z);
-            
 
             z = x * y;
-            Console.WriteLine("z equals x*y:");
+            Console.WriteLine("x*y: ");
             Console.WriteLine(z);
-            
 
             z = x / y;
-            Console.WriteLine("z equals x/y:");
+            Console.WriteLine("x/y: ");
             Console.WriteLine(z);
-            
+
+            z = x * y;
+            Console.WriteLine("x*y: ");
+            Console.WriteLine(z);
+
             z = x % y;
-            Console.WriteLine("z equals x mod y:");
+            Console.WriteLine("x mod y: ");
             Console.WriteLine(z);
+
             Console.ReadKey();
         }
     }
