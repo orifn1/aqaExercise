@@ -5,3 +5,10 @@ c:\users\odarmokhval\source\repos\Variables2\Variables2\bin\Debug\Variables2.pdb
 c:\users\odarmokhval\source\repos\Variables2\Variables2\obj\Debug\Variables2.exe
 c:\users\odarmokhval\source\repos\Variables2\Variables2\obj\Debug\Variables2.pdb
 c:\users\odarmokhval\source\repos\Variables2\Variables2\obj\Debug\Variables2.csprojResolveAssemblyReference.cache
+D:\aqaExercise\odarmokhval\Variables2\Variables2\bin\Debug\Variables2.exe.config
+D:\aqaExercise\odarmokhval\Variables2\Variables2\bin\Debug\Variables2.exe
+D:\aqaExercise\odarmokhval\Variables2\Variables2\bin\Debug\Variables2.pdb
+D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.csprojResolveAssemblyReference.cache
+D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.csproj.CoreCompileInputs.cache
+D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.exe
+D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.pdb
