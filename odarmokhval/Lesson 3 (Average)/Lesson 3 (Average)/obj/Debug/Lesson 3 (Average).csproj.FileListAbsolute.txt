@@ -1,7 +1,0 @@
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\obj\Debug\Lesson 3 (Average).csprojResolveAssemblyReference.cache
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\obj\Debug\Lesson 3 (Average).csproj.CoreCompileInputs.cache
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\bin\Debug\Lesson 3 (Average).exe.config
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\bin\Debug\Lesson 3 (Average).exe
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\bin\Debug\Lesson 3 (Average).pdb
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\obj\Debug\Lesson 3 (Average).exe
-C:\Users\odarmokhval\source\repos\Lesson 3 (Average)\Lesson 3 (Average)\obj\Debug\Lesson 3 (Average).pdb
