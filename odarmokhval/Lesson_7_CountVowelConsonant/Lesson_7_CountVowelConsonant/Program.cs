@@ -7,22 +7,16 @@ namespace Lesson_7_CountVowelConsonant
     {
         static void Main(string[] args)
         {
-            string z;
-            int vowel, consonant, i, max;
-
             Console.Write("input a string with lower and upper letters: \n");
-            
-            z = Console.ReadLine();
 
-            vowel = 0;
-            consonant = 0;
-            max = z.Length;
+            string z = Console.ReadLine();
 
-            for (i = 0; i < max; i++)
+            int vowel = 0;
+            int consonant = 0;
 
+            for (int i = 0; i < z.Length; i++)
             {
-                if (z[i] == 'a' || z[i] == 'e' || z[i] == 'i' || z[i] == 'o' || z[i] == 'u' || z[i] == 'y'
-                  || z[i] == 'A' || z[i] == 'E' || z[i] == 'I' || z[i] == 'O' || z[i] == 'U' || z[i] == 'Y')
+                if ("aeiouyAEIOUY".IndexOf(z[i]) != -1)
                 {
                     vowel++;
                 }
