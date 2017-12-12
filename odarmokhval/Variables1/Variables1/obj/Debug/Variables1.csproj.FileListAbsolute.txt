@@ -1,6 +1,0 @@
-c:\users\odarmokhval\source\repos\Variables1\Variables1\obj\Debug\Variables1.csproj.CoreCompileInputs.cache
-c:\users\odarmokhval\source\repos\Variables1\Variables1\bin\Debug\Variables1.exe.config
-c:\users\odarmokhval\source\repos\Variables1\Variables1\bin\Debug\Variables1.exe
-c:\users\odarmokhval\source\repos\Variables1\Variables1\bin\Debug\Variables1.pdb
-c:\users\odarmokhval\source\repos\Variables1\Variables1\obj\Debug\Variables1.exe
-c:\users\odarmokhval\source\repos\Variables1\Variables1\obj\Debug\Variables1.pdb

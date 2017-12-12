@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3_AverageVar2", "Lesson_3_AverageVar2\Lesson_3_AverageVar2.csproj", "{B3901B44-76EC-4491-B82A-7055D339BABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3901B44-76EC-4491-B82A-7055D339BABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3901B44-76EC-4491-B82A-7055D339BABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3901B44-76EC-4491-B82A-7055D339BABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3901B44-76EC-4491-B82A-7055D339BABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD9C412-8950-4507-8D0E-26AC7745622C}
+	EndGlobalSection
+EndGlobal
