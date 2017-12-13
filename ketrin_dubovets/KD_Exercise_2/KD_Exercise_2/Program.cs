@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Variables2
+namespace KD_Exercise_2
 {
     class Variables2
     {
