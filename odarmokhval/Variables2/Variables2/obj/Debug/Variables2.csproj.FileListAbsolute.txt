@@ -12,3 +12,5 @@ D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.csprojReso
 D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.csproj.CoreCompileInputs.cache
 D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.exe
 D:\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.pdb
+C:\Users\Polyakov.Andrian\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.exe
+C:\Users\Polyakov.Andrian\aqaExercise\odarmokhval\Variables2\Variables2\obj\Debug\Variables2.pdb
