@@ -1,9 +1,0 @@
-c:\users\odarmokhval\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-c:\users\odarmokhval\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-c:\users\odarmokhval\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-c:\users\odarmokhval\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-c:\users\odarmokhval\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-c:\users\odarmokhval\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\odarmokhval\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.CodeAnalysisLog.xml
-C:\Users\odarmokhval\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.lastcodeanalysissucceeded
-C:\Users\odarmokhval\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
