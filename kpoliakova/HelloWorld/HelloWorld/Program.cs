@@ -8,8 +8,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
 
-            Console.ReadKey();
+            Console.WriteLine("new line");
 
+            Console.ReadKey();
         }
     }
 }
