@@ -10,7 +10,7 @@ namespace HelloWorld
             Console.WriteLine("line before new line");
 
             Console.ReadKey();
-
+            Console.ReadKey();
         }
     }
 }
