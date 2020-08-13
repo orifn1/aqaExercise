@@ -7,6 +7,7 @@ namespace HelloWorld
         static void Main()
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("line before new line");
 
             Console.ReadKey();
 
